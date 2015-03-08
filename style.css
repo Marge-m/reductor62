@@ -11,6 +11,10 @@ margin-bottom: 20px;
 
 }
 
+ul {
+  font-size: 20px;
+}
+
 span {
 border: solid 2px #483D8B;
 margin-left: 5px;
