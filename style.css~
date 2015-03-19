@@ -1,0 +1,42 @@
+.jumbotron {
+padding-top: 10px;
+padding-bottom: 0px;
+font-size: 17px;
+}
+
+h2 {
+font-family:Verdana;
+text-align:center;
+font-size: 40px;
+margin-bottom: 20px;
+
+}
+
+span {
+border: solid 2px #483D8B;
+margin-left: 5px;
+border-left: 0px;
+border-right: 0px;
+}
+
+p.foo {
+text-align:center;
+margin-top: 2em;
+}
+
+p.telefon {
+font-size: 1em;
+margin-top: 1em;
+margin-bottom: 0em;
+}
+
+
+
+p.imya {
+font-size: 1em;
+margin-bottom: 0em;
+}
+
+.container {
+margin-bottom: 0px;
+}
